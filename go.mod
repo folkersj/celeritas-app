@@ -10,13 +10,13 @@ require (
 	github.com/jackc/pgx/v4 v4.13.0
 	github.com/justinas/nosurf v1.1.1
 	github.com/ory/dockertest/v3 v3.8.0
-	github.com/folkersj/celeritas v0.0.0
+	github.com/folkersj/celeritas v1.0.0
 	github.com/upper/db/v4 v4.2.1
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	github.com/go-chi/chi/v5 v5.0.10
 )
 
 require (
+	github.com/go-chi/chi/v5 v5.0.10 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
